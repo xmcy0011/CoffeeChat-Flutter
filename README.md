@@ -2,6 +2,8 @@
 
 opensource im with server(go) and client(flutter+swift), this a simple flutter client, server see [Server](https://github.com/xmcy0011/CoffeeChat)
 
+![screenshot](./demo/screenshot.png)
+
 > PS：目前flutter技术栈暂停维护，仅供参考。
 主要是因为实力有限，实现的效果没有原生好，不流畅，另外精力也是有限，顾不过来。如果有flutter大佬愿意贡献代码，欢迎给我发邮件😊。
 
